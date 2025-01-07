@@ -20,6 +20,6 @@ func main() {
 	fmt.Println("request already sent")
 	fmt.Println(string(byt))
 
-	defer res.Body.Close()
+	
 
 }
