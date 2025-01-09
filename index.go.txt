@@ -5,4 +5,6 @@ import "fmt"
 func main(){
 fmt.Println("hello world")
 os.Exit()
+
+//test man komba
 }
